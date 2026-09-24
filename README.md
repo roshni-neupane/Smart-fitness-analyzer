@@ -1,8 +1,8 @@
-# Smart Fitness Session Analyzer
+## Smart Fitness Session Analyzer
 
 Selected option for Assignment: Option A – Smart Fitness Session Analyzer
 Student name:Roshni Neupane
-# Description
+## Description
 
 This console program analyses simulated measurements from wearable devices used during training sessions. For every session it:
 
