@@ -1,0 +1,2 @@
+# This project uses only the Python standard library (statistics, random, unittest).
+# No extra packages need to be installed.
